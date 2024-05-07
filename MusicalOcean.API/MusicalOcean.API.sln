@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicalOcean.API", "MusicalOcean.API\MusicalOcean.API.csproj", "{1A14E8BE-BE7F-4A52-B991-ACC96223BCF9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MusicalOcean.Core", "MusicalOcean.Core\MusicalOcean.Core.csproj", "{4DF37E95-20D5-41F4-BEDF-1C5E284F81CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicalOcean.DataAccess", "MusicalOcean.DataAccess\MusicalOcean.DataAccess.csproj", "{9427487B-40AB-4194-8228-50771F75626C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicalOcean.Application", "MusicalOcean.Application\MusicalOcean.Application.csproj", "{656A09B1-8F4E-48A0-985E-D9A5F3151333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A14E8BE-BE7F-4A52-B991-ACC96223BCF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A14E8BE-BE7F-4A52-B991-ACC96223BCF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A14E8BE-BE7F-4A52-B991-ACC96223BCF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A14E8BE-BE7F-4A52-B991-ACC96223BCF9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DF37E95-20D5-41F4-BEDF-1C5E284F81CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DF37E95-20D5-41F4-BEDF-1C5E284F81CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DF37E95-20D5-41F4-BEDF-1C5E284F81CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DF37E95-20D5-41F4-BEDF-1C5E284F81CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9427487B-40AB-4194-8228-50771F75626C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9427487B-40AB-4194-8228-50771F75626C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9427487B-40AB-4194-8228-50771F75626C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9427487B-40AB-4194-8228-50771F75626C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{656A09B1-8F4E-48A0-985E-D9A5F3151333}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{656A09B1-8F4E-48A0-985E-D9A5F3151333}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{656A09B1-8F4E-48A0-985E-D9A5F3151333}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{656A09B1-8F4E-48A0-985E-D9A5F3151333}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00474806-094F-4C84-92FB-77DB7C3D55F0}
+	EndGlobalSection
+EndGlobal
