@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\MusicalOcean.Application\MusicalOcean.Application.csproj" />
+    <ProjectReference Include="..\MusicalOcean.Core\MusicalOcean.Core.csproj" />
     <ProjectReference Include="..\MusicalOcean.DataAccess\MusicalOcean.DataAccess.csproj" />
   </ItemGroup>
 

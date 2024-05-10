@@ -1,6 +1,8 @@
-﻿namespace MusicalOcean.Core.Models
+﻿using System;
+
+namespace MusicalOcean.Core.Models
 {
-    public class User
+    public sealed class User
     {
         public Guid Id { get; }
 

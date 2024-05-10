@@ -1,4 +1,6 @@
-﻿namespace MusicalOcean.API.Contracts
+﻿using System;
+
+namespace MusicalOcean.API.Contracts
 {
     public record UsersResponse(
         Guid Id,

@@ -1,5 +1,8 @@
 ﻿using MusicalOcean.Core.Models;
 using MusicalOcean.DataAccess.Repositories;
+using System;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace MusicalOcean.Application.Services
 {
